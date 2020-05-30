@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./freecodecamp/static/css/main.5f361e03.chunk.css",
-    "main.js": "./freecodecamp/static/js/main.e064d7de.chunk.js",
-    "main.js.map": "./freecodecamp/static/js/main.e064d7de.chunk.js.map",
-    "runtime-main.js": "./freecodecamp/static/js/runtime-main.ed591af9.js",
-    "runtime-main.js.map": "./freecodecamp/static/js/runtime-main.ed591af9.js.map",
-    "static/js/2.fdafab41.chunk.js": "./freecodecamp/static/js/2.fdafab41.chunk.js",
-    "static/js/2.fdafab41.chunk.js.map": "./freecodecamp/static/js/2.fdafab41.chunk.js.map",
-    "index.html": "./freecodecamp/index.html",
-    "precache-manifest.4143c21b1f7195b801e4b0cfb0aa9291.js": "./freecodecamp/precache-manifest.4143c21b1f7195b801e4b0cfb0aa9291.js",
-    "service-worker.js": "./freecodecamp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "./freecodecamp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.fdafab41.chunk.js.LICENSE.txt": "./freecodecamp/static/js/2.fdafab41.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "./freecodecamp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/freecodecamp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/freecodecamp/static/js/main.e064d7de.chunk.js",
+    "main.js.map": "/freecodecamp/static/js/main.e064d7de.chunk.js.map",
+    "runtime-main.js": "/freecodecamp/static/js/runtime-main.ed591af9.js",
+    "runtime-main.js.map": "/freecodecamp/static/js/runtime-main.ed591af9.js.map",
+    "static/js/2.fdafab41.chunk.js": "/freecodecamp/static/js/2.fdafab41.chunk.js",
+    "static/js/2.fdafab41.chunk.js.map": "/freecodecamp/static/js/2.fdafab41.chunk.js.map",
+    "index.html": "/freecodecamp/index.html",
+    "precache-manifest.4143c21b1f7195b801e4b0cfb0aa9291.js": "/freecodecamp/precache-manifest.4143c21b1f7195b801e4b0cfb0aa9291.js",
+    "service-worker.js": "/freecodecamp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/freecodecamp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fdafab41.chunk.js.LICENSE.txt": "/freecodecamp/static/js/2.fdafab41.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/freecodecamp/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ed591af9.js",
