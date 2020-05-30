@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/freecodecamp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/freecodecamp/static/js/main.e064d7de.chunk.js",
-    "main.js.map": "/freecodecamp/static/js/main.e064d7de.chunk.js.map",
-    "runtime-main.js": "/freecodecamp/static/js/runtime-main.ed591af9.js",
-    "runtime-main.js.map": "/freecodecamp/static/js/runtime-main.ed591af9.js.map",
-    "static/js/2.fdafab41.chunk.js": "/freecodecamp/static/js/2.fdafab41.chunk.js",
-    "static/js/2.fdafab41.chunk.js.map": "/freecodecamp/static/js/2.fdafab41.chunk.js.map",
-    "index.html": "/freecodecamp/index.html",
-    "precache-manifest.4143c21b1f7195b801e4b0cfb0aa9291.js": "/freecodecamp/precache-manifest.4143c21b1f7195b801e4b0cfb0aa9291.js",
-    "service-worker.js": "/freecodecamp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/freecodecamp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.fdafab41.chunk.js.LICENSE.txt": "/freecodecamp/static/js/2.fdafab41.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/freecodecamp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/persiancodecamp/static/css/main.523f09c5.chunk.css",
+    "main.js": "/persiancodecamp/static/js/main.e7c3eb79.chunk.js",
+    "main.js.map": "/persiancodecamp/static/js/main.e7c3eb79.chunk.js.map",
+    "runtime-main.js": "/persiancodecamp/static/js/runtime-main.a587634d.js",
+    "runtime-main.js.map": "/persiancodecamp/static/js/runtime-main.a587634d.js.map",
+    "static/js/2.f1738d45.chunk.js": "/persiancodecamp/static/js/2.f1738d45.chunk.js",
+    "static/js/2.f1738d45.chunk.js.map": "/persiancodecamp/static/js/2.f1738d45.chunk.js.map",
+    "index.html": "/persiancodecamp/index.html",
+    "precache-manifest.a5855decf5b5e93cdc8c446dd7f26ebd.js": "/persiancodecamp/precache-manifest.a5855decf5b5e93cdc8c446dd7f26ebd.js",
+    "service-worker.js": "/persiancodecamp/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/persiancodecamp/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.f1738d45.chunk.js.LICENSE.txt": "/persiancodecamp/static/js/2.f1738d45.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/persiancodecamp/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed591af9.js",
-    "static/js/2.fdafab41.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e064d7de.chunk.js"
+    "static/js/runtime-main.a587634d.js",
+    "static/js/2.f1738d45.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.e7c3eb79.chunk.js"
   ]
 }
